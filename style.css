@@ -6,6 +6,7 @@ body {
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -o-flex-direction: column;
+  justify-content: space-between;
 }
 
 header {
